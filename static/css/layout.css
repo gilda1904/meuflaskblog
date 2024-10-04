@@ -272,6 +272,11 @@ button {
         flex-grow: 1;
     }
 
+    #wrap>header>form {
+        min-width: 280px;
+        max-width: 280px;
+    }
+
 }
 
 /* 768px ou mais */
